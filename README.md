@@ -6,7 +6,7 @@ Go there and sign in with an Xbox account.
 
 To see all the acquired tokens and data, check the printed statements in the terminal. You can see the authorization code, access token, user token, x token, and then various bits of user info such as achievements, friends list, and stats.
 
-(If you wish to run the program with a certificate as your form of client credential for Azure Active Directory as opposed to the client secret by default, you'll have to run the program via "python app_replica.py --cert" in the terminal).
+(If you wish to run the program with a certificate as your form of client credential from Azure Active Directory as opposed to the client secret by default, you'll have to run the program via "python app_replica.py --cert" in the terminal).
 
 For an overview of the OAuth process with Microsoft with a Python Web App, check out this presentation: 
 https://docs.google.com/presentation/d/1QM2HVGmp5IYpR6xuj1IAo621KCLOsKi2tWxQC5UTN3U/edit?usp=sharing
