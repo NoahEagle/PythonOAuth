@@ -14,11 +14,17 @@ https://docs.google.com/presentation/d/1QM2HVGmp5IYpR6xuj1IAo621KCLOsKi2tWxQC5UT
 Further explanations:
 
 Registering App on Azure: https://drive.google.com/file/d/1vLMlg_rynCVwClS2DvpADhJfkEhbd1XA/view?usp=sharing
+
 Access Token w/ Client Secret: https://drive.google.com/file/d/1XpapmTPih6VpCbzr45bXIseeXJQDIBIp/view?usp=sharing
 
 Access Token w/ Certificate: https://drive.google.com/file/d/1ySrHWjVkCj3x-Rt1Eu8Acp4wohZOLajU/view?usp=sharing
+
 User Token: https://drive.google.com/file/d/1LkqZfMdCl56VyLLnv_qALPaR4UD0iZ82/view?usp=sharing
+
 X Token: https://drive.google.com/file/d/1G050oyxrcCp4Vrar2b76Qz0tw2ClD6yO/view?usp=sharing
+
 Friends List: https://drive.google.com/file/d/17HBlEOP6tLlYKIDnMCZaxUbwNBPVM5T8/view?usp=sharing
+
 Achievements: https://drive.google.com/file/d/1baJXrQQRR4PFhYMSlEs2_xFxx9zxgCFG/view?usp=sharing
+
 Stats: https://drive.google.com/file/d/1P0cHx12ZwJ2CXpkkKAZj7i-YEQOacX_N/view?usp=sharing
